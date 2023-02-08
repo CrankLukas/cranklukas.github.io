@@ -133,7 +133,7 @@ body{
 
 .intro {
     margin-top: 200px;
-    margin-bottom: 210px;
+    margin-bottom: 280px;
     padding-left: 9vw;
 }
 
@@ -508,17 +508,22 @@ a:hover{
 span{
     font-family: "SF-Regular";
     color: #E0E0E0;
-    font-size: 24px;
+    font-size: 22px;
     line-height: 36px;
     align-self: left;
+}
+
+.intro p{
+    opacity: 68%;
+    font-size: 24px;
 }
 
 h1{
     font-family: "SF-Light";
     color: #E1E1E1;
-    font-size: 54px;
+    font-size: 56px;
     letter-spacing: 0.25px;
-    line-height: 74px;
+    line-height: 72px;
 }
 
 .project-page-span1{
@@ -544,7 +549,7 @@ h2{
 h5{
     font-family: "SF-Light";
     font-size: 50px;
-    line-height: 64px;
+    line-height: 72px;
     letter-spacing: 0.1px;
     color: #e1e1e1;
 }
@@ -630,10 +635,10 @@ h3{
 }
 
 .project-section{
-    margin-top: 200px;
+    margin-top: 240px;
     display: flex;
     flex-direction: column;
-    margin-bottom: 140px;
+    margin-bottom: 180px;
     margin-left: 9vw;
     margin-right: 9vw;
 }

@@ -132,7 +132,7 @@ body{
 }
 
 .intro {
-    margin-top: 200px;
+    margin-top: 168px;
     margin-bottom: 280px;
     padding-left: 9vw;
 }
@@ -153,7 +153,7 @@ body{
     transition-timing-function: ease-out;
 }
 .welcome {
-    margin-bottom: 88px;
+    margin-bottom: 76px;
     display: flex;
     position: relative;
     align-self: center;
@@ -304,6 +304,16 @@ header{
     background-color: #000000;
 }
 
+.project-intro p{
+    font-family: "SF-Light";
+    font-size: 22px;
+    max-width: 330px;
+    color: #939393;
+    margin-top: 32px;
+    line-height: 32px;
+}
+
+
 .project-intro-right{
     padding-left: 0vw !important ; 
     padding-right: 9vw !important ; 
@@ -437,14 +447,14 @@ a:hover{
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    margin-top: 32px;
+    margin-top: 50px;
     margin-bottom: 64px;
 }
 
 .project-role span:nth-child(1){
     font-family: "SF-SemiBold";
-    font-size: 18px;
-    line-height: 24px;
+    font-size: 16px;
+    line-height: 28px;
     color: #C6D28D;
     letter-spacing: 0.2px;
 }
@@ -516,14 +526,15 @@ span{
 .intro p{
     opacity: 68%;
     font-size: 24px;
+    margin-top: 48px;
 }
 
 h1{
     font-family: "SF-Light";
     color: #E1E1E1;
-    font-size: 56px;
+    font-size: 68px;
     letter-spacing: 0.25px;
-    line-height: 72px;
+    line-height: 84px;
 }
 
 .project-page-span1{

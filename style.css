@@ -861,6 +861,21 @@ h4{
 
 @media only screen and (max-width: 770px){
 
+    .intro p{
+        font-size: 17px;
+        margin-top: 24px;
+    }
+
+    .project-intro p {
+        font-family: "SF-Light";
+        font-size: 17px;
+        max-width: 330px;
+        color: #939393;
+        margin-top: 16px;
+        letter-spacing: 0.3px;
+        line-height: 24px;
+    }
+
     .welcome img{ 
         width: 44px;
         height: 44px;
@@ -898,7 +913,7 @@ h4{
     }
 
     .project-role span:nth-child(1) {
-        font-size: 15px !important;
+        font-size: 14px !important;
         line-height: 24px;
     }
 

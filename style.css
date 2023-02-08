@@ -1041,6 +1041,11 @@ h4{
         color: #E1E1E1;
         margin-bottom: 28px;
     }
+
+    .padding-img{
+        
+    }
+
     .project-header{
         padding-left: 24px;
         padding-right: 32px;
@@ -1089,6 +1094,11 @@ h4{
 
     h5{
         font-size: 28px;
+        line-height: 36px;
+    }
+
+    h6{
+        font-size: 24px;
         line-height: 36px;
     }
 

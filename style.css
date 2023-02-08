@@ -862,7 +862,8 @@ h4{
 @media only screen and (max-width: 770px){
 
     .intro p{
-        font-size: 17px;
+        font-size: 19px;
+        line-height: 24px;
         margin-top: 24px;
         letter-spacing: 0.2px;
     }
@@ -872,7 +873,7 @@ h4{
         font-size: 17px;
         max-width: 330px;
         color: #939393;
-        margin-top: 16px;
+        margin-top: 14px;
         letter-spacing: 0.3px;
         line-height: 24px;
     }
@@ -909,7 +910,7 @@ h4{
     }
 
     .project-role{
-        margin-top: 20px;
+        margin-top: 22px;
         margin-bottom: 50px;
     }
 
@@ -959,7 +960,7 @@ h4{
         font-size: 35px;
         letter-spacing: 0.2px;
         line-height: 44px;
-        max-width: 100% !important;
+        width: 100% !important !important;
     }
 
     .intro{

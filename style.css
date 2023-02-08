@@ -566,6 +566,10 @@ h5{
     color: #e1e1e1;
 }
 
+.padding-img{
+    margin-top: 180px;
+}
+
 h6{
     font-family: "SF-Light";
     font-size: 35px;
@@ -576,6 +580,10 @@ h6{
 
 .max-width1{
     max-width: 660px;
+}
+
+.max-width4{
+    max-width: 620px;
 }
 
 .max-width3{

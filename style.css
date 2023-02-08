@@ -310,6 +310,7 @@ header{
     max-width: 330px;
     color: #939393;
     margin-top: 32px;
+    letter-spacing: 0.3px;
     line-height: 32px;
 }
 
@@ -631,7 +632,7 @@ h3{
 
 .project-section-role-header{
     text-transform: uppercase;
-    margin-top: 48px;
+    margin-top: 68px;
     font-size: 15px;
     line-height: 28px;
     color: #D6D6D6;
@@ -640,10 +641,10 @@ h3{
 
 .project-section-role p{
     font-family: "SF-Regular";
-    font-size: 17px;
+    font-size: 18px;
     letter-spacing: 0.1px;
     line-height: 28px;
-    margin-top: 4px;
+    margin-top: 8px;
     color: #A8A8A8;
 }
 
@@ -722,7 +723,7 @@ h3{
 }
 
 .large-img{
-
+    margin-top: 180px;
 }
 
 .link-row{

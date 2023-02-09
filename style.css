@@ -572,7 +572,7 @@ h5{
 
 h6{
     font-family: "SF-Light";
-    font-size: 35px;
+    font-size: 38px;
     line-height: 56px;
     letter-spacing: 0.1px;
     color: #e1e1e1;
@@ -586,8 +586,12 @@ h6{
     max-width: 620px;
 }
 
+.max-width5{
+    max-width: 710px;
+}
+
 .max-width3{
-    max-width: 740px;
+    max-width: 800px;
 }
 
 .max-width2{

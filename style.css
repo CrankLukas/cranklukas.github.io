@@ -153,7 +153,7 @@ body{
     transition-timing-function: ease-out;
 }
 .welcome {
-    margin-bottom: 76px;
+    margin-bottom: 80px;
     display: flex;
     position: relative;
     align-self: center;

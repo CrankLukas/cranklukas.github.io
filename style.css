@@ -306,7 +306,7 @@ header{
 
 .project-intro p{
     font-family: "SF-Light";
-    font-size: 22px;
+    font-size: 23px;
     max-width: 330px;
     color: #939393;
     margin-top: 32px;
@@ -870,7 +870,7 @@ h4{
 
     .project-intro p {
         font-family: "SF-Light";
-        font-size: 17px;
+        font-size: 18px;
         max-width: 330px;
         color: #939393;
         margin-top: 14px;
@@ -915,7 +915,7 @@ h4{
     }
 
     .project-role span:nth-child(1) {
-        font-size: 14px !important;
+        font-size: 15px !important;
         line-height: 24px;
     }
 

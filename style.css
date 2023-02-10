@@ -405,6 +405,10 @@ a{
     width: 100%;
 }
 
+.width-auto{
+    width: auto;
+}
+
 a:hover{
     cursor: pointer;
 }

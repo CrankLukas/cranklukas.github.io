@@ -28,6 +28,7 @@ footer, header, hgroup, menu, nav, section {
 
 html{
     font-family: -apple-system;
+    background-color: #000;
 }
 body {
     line-height: 1;

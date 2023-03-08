@@ -139,7 +139,7 @@ body{
 .intro {
     margin-top: 168px;
     margin-bottom: 252px;
-    padding-left: 9vw;
+    padding-left: 8vw;
 }
 
 .intro-bottom{
@@ -304,7 +304,7 @@ header{
     height: 100%;
     justify-content: flex-end;
     flex-direction: column;
-    padding-left: 9vw;
+    padding-left: 8vw;
     width: calc(50% - 48px);
     background-color: #000000;
 }
@@ -322,7 +322,7 @@ header{
 
 .project-intro-right{
     padding-left: 0vw !important ; 
-    padding-right: 9vw !important ; 
+    padding-right: 8vw !important ; 
 }
 
 .mobile-hide{
@@ -342,8 +342,8 @@ footer{
     width: 100%;
     height: 320px;
     margin-top: 80px;
-    padding-left: 9vw;
-    padding-right: 9vw;
+    padding-left: 8vw;
+    padding-right: 8vw;
     margin-bottom: 72px;
 }
 
@@ -684,8 +684,8 @@ h3{
     display: flex;
     flex-direction: column;
     margin-bottom: 180px;
-    margin-left: 9vw;
-    margin-right: 9vw;
+    margin-left: 8vw;
+    margin-right: 8vw;
 }
 
 .project-section span{
@@ -1026,7 +1026,7 @@ h4{
         justify-content: flex-end;
         flex-direction: column;
         height: auto;
-        padding-left: 9vw;
+        padding-left: 8vw;
         padding: 32px 24px 24px 24px;
         width: 100%;
         background-color: #000000;
